@@ -1,4 +1,4 @@
-# Python-Project
+# Minecraft Launcher
 Custom Minecraft launcher. Minecraft files not included. (Only Windows supported right now)
 
 These files must be in a folder called "launcher" in this folder: C:\Users\User\AppData\Roaming\.minecraft
