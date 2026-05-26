@@ -7,6 +7,8 @@ Run "install dependencies" then delete. It only needs to be used once. Once depe
 
 I am activly working on updating it beyond a basic launcher.
 
+The Fabric Launcher shows all your versions, but only successfully launches Fabric 1.21.1 at the moment
+
 Current Features in Progress:
   - Skin Loader
   - Skin Preview
