@@ -4,7 +4,7 @@ import subprocess
 import zipfile
 from pathlib import Path
 
-JAVA = r"C:\Program Files\Java\jdk-21.0.10\bin\java.exe"
+JAVA = r"C:\Program Files\Java\jdk-25.0.3\bin\java.exe"
 MC_DIR = Path(os.environ["USERPROFILE"]) / "AppData/Roaming/.minecraft"
 
 def load_username():
