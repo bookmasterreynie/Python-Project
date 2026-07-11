@@ -9,7 +9,7 @@ The skin renderers load "skin.png"
 
 I am activly working on updating it beyond a basic launcher.
 
-The Fabric Launcher shows all your versions, but only successfully launches Fabric 1.21.1 at the moment
+The runtime launchers should run out of the box without extra installs, but the bare Fabric and launch versions require manual java downloads. Double-check your path in the file.
 
 Current Features in Progress:
   - Skin Loader
